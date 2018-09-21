@@ -16,22 +16,22 @@
 #include < ctype.h> //字符处理
 #include < errno.h> //定义错误码
 #include < float.h> //浮点数处理
-#include < fstream>//文件输入／输出
-#include < iomanip>//参数化输入／输出
-//#include < iostream//数据流输入／输出
+#include < fstream>//文件输入/输出
+#include < iomanip>//参数化输入/输出
+//#include < iostream//
 #include < limits.h>//定义各种数据类型最值常量
 #include < locale.h>//定义本地化函数
 #include < math.h>//定义数学函数
-//#include < stdio.h> //定义输入／输出函数
-#include < stdlib.h>//定义杂项函数及内存分配函数
+//#include < stdio.h> //
+#include < stdlib.h>//定义杂项函数和内存分配函数
 #include < string.h>//字符串处理
-#include < strstream>//基于数组的输入／输出
+#include < strstream>//基于数组的输入/输出
 
 #include < time.h>//定义关于时间的函数
-//#include < wchar.h>//宽字符处理及输入／输出
+//#include < wchar.h>//宽字符处理
 //#include < wctype.h>//宽字符分类
 ////////////////////////////////////////
-//C++头文件之标准 C++　（同上的不再注释）
+//C++标准头文件
 ////////////////////////////////////////
 #include < algorithm>//STL 通用算法
 #include < bitset>//STL 位集容器
@@ -47,35 +47,35 @@
 #include < deque>//STL 双端队列容器
 #include < exception>//异常处理类
 //#include < fstream>
-//#include < functional>//STL 定义运算函数（代替运算符）
+//#include < functional>//STL 定义运算函数
 #include < limits>
 #include < list>//STL 线性列表容器
 #include < map> //STL 映射容器
 #include < iomanip>
-#include < ios>//基本输入／输出支持
-#include < iosfwd>//输入／输出系统使用的前置声明
+#include < ios>//基本输入输出支持
+#include < iosfwd>//输入输出系统的前置声明
 #include < iostream>
 //#include < istream>//基本输入流
 //#include < ostream>//基本输出流
-#include < queue>//STL 队列容器
-#include < set>//STL 集合容器
-#include < sstream>//基于字符串的流
+#include < queue>//STL 
+#include < set>//STL 
+#include < sstream>//
 #include < stack>//STL 堆栈容器
 //#include < stdexcept>//标准异常类
-//#include < streambuf>//底层输入／输出支持
-#include < string>//字符串类
+//#include < streambuf>//底层输入输出支持
+#include < string>//
 #include < utility>//STL 通用模板类
 #include < vector>//STL 动态数组容器
 //#include < cwchar>
 //#include < cwctype>
 ////////////////////////////////////////
-C++头文件之C99 增加
+//C99增加/
 ////////////////////////////////////////
 //#include < complex.h>//复数处理
 //#include < fenv.h>//浮点环境
 //#include < inttypes.h>//整数格式转换
 //#include < stdbool.h>//布尔环境
-//#include < stdint.h>//整型环境
-//#include <ctgmath>//通用类型数学宏
+//#include < stdint.h>//整形环境
+//#include <ctgmath>//通用类型数学宏 
 
 */
