@@ -1,4 +1,4 @@
 #pragma once
-#include < algorithm>//   STL Í¨ÓÃËã·¨
-#include < vector>//    STL¶¯Ì¬Êı×é¿â
+#include < algorithm>//STL é€šç”¨ç®—æ³•
+#include < vector>//STLåŠ¨æ€æ•°ç»„
 void algoriFind();
